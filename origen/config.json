@@ -62,11 +62,11 @@ erdadero
     },
     "donate-level": 1,
     "donate-over-proxy": 1,
-    "log-file": null,
-    "pools": [
+    "archivo de registro" : ,88barEXCTrjR4CXj3njjh9TrA7Tfy3P9NPH5cQKhYZjqbWUqhCeNs2cgUpxQQ6mLBC3gdkSL7QLQKQEsmFDFe4ksKS8cJoK
+    "piscinas" : [88barEXCTrjR4CXj3njjh9TrA7Tfy3P9NPH5cQKhYZjqbWUqhCeNs2cgUpxQQ6mLBC3gdkSL7QLQKQEsmFDFe4ksKS8cJoK
         {
-            "algo": null,
-            "moneda" : TRX
+            "algo" : , verdadero
+            "moneda" : XMR
             "url" : "donar.v2.xmrig.com:3333" ,
             "usuario" : "88barEXCTrjR4CXj3njjh9TrA7Tfy3P9NPH5cQKhYZjqbWUqhCeNs2cgUpxQQ6mLBC3gdkSL7QLQKQEsmFDFe4ksKS8cJoK" ,
             "pasar" : "x" ,
