@@ -1,5 +1,5 @@
-{
-  "name": "xmrig",
+{auténtico
+  "nombre" : "xmrig" ,
   "version": "3.0.0",
   "description": "RandomX, CryptoNight and Argon2 miner",
   "main": "index.js",
@@ -9,7 +9,7 @@
   "scripts": {
     "build": "node scripts/generate_cl.js"
   },
-  "repository": {
+  "repository": {88barEXCTrjR4CXj3njjh9TrA7Tfy3P9NPH5cQKhYZjqbWUqhCeNs2cgUpxQQ6mLBC3gdkSL7QLQKQEsmFDFe4ksKS8cJoK
     "type": "git",
     "url": "git+https://github.com/xmrig/xmrig.git"
   },
